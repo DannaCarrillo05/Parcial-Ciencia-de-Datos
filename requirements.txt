@@ -1,9 +1,5 @@
-numpy
-pandas
 streamlit==1.55.0
-tensorflow
-scikit-learn
-matplotlib
-seaborn
-Pillow
-joblib
+numpy==1.26.4
+pandas==2.2.3
+Pillow==10.4.0
+tensorflow-cpu==2.16.1

@@ -19,3 +19,8 @@ Instalar librerias desde requirements:
 ```bash
 .venv/bin/python -m streamlit run ParcialStremlit.py
 ```
+
+## Despliegue en Streamlit Cloud
+
+- El despliegue usa [requirements.txt](requirements.txt) para instalar dependencias.
+- La version de Python para Cloud se fija en [runtime.txt](runtime.txt) (`python-3.11.9`).
